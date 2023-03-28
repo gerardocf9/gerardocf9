@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gerardocf9
-- 👀 I’m interested in Hardware and software design and currently in finish my degree thesis...
+- 👀 I’m an electronic Engineer interested in Hardware and software design.
 - 🌱 I’m currently learning react and golang!
 - 📫 gerardoa.camposf@gmail.com
 
